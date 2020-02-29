@@ -1,8 +1,17 @@
 # Doubletapp тестовое задание
+
+## Перед запуском
+```bash
+git clone git@github.com:hyperg3g/doubletapp-test.git
+cd doubletapp-test/server
+yarn
+cd ../client
+yarn
+```
+
 ## Запуск локально
 Для запуска локального сервера с билдом клиента:
 ```bash
-git clone git@github.com:hyperg3g/doubletapp-test.git
 cd doubletapp-test/server
 yarn server-prod
 ```
