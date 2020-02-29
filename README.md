@@ -2,7 +2,7 @@
 ## Запуск локально
 Для запуска локального сервера с билдом клиента:
 ```bash
-git clone 
+git clone git@github.com:hyperg3g/doubletapp-test.git
 cd doubletapp-test/server
 yarn server-prod
 ```
